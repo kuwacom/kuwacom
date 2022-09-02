@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 <p><span class="emoji"><img src="https://cdn.kuwa.dev/image/kuwa-music.png" width="20px" height="20px" alt="bot"></span>DiscordBot - <span class="glitch"><span class="noise1"><a href="https://kuwa.dev/discord/bot">kuwa.dev/discord/bot</a></span></span></p>
 <p><span class="emoji"><img src="https://cdn.kuwa.dev/image/discord-support.png" width="20px" height="20px" alt="support"></span>DiscordSupport - <span class="glitch"><span class="noise2"><a href="https://kuwa.dev/discord/support">kuwa.dev/discord/support</a></span></span></p>
 <p><span class="emoji"><img src="https://cdn.kuwa.dev/image/twitter.png" width="20px" height="20px" alt="discord"></span>Twitter - <span class="glitch"><span class="noise1"><a href="https://kuwa.dev/tw">kuwa.dev/tw</a></span></span></p>
-<p><span class="emoji"><img src="https://cdn.kuwa.dev/image/github-120.png" width="20px" height="20px" alt="github"></span>GitHub - <span class="glitch"><span class="noise2"><a href="https://kuwa.dev/github">kuwa.dev/github</a></span></span></p>
+<p><span class="emoji"><img src="https://cdn.kuwa.dev/image/github-light-120.png" width="20px" height="20px" alt="github"></span>GitHub - <span class="glitch"><span class="noise2"><a href="https://kuwa.dev/github">kuwa.dev/github</a></span></span></p>
 </div>
 </div>
 </div>
