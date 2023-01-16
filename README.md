@@ -23,6 +23,5 @@ Here are some ideas to get you started:
 <p><span class="emoji"><img src="https://cdn.kuwa.dev/image/twitter.png" width="20px" height="20px" alt="discord"></span>Twitter - <span class="glitch"><span class="noise1"><a href="https://kuwa.dev/tw">kuwa.dev/tw</a></span></span></p>
 <p><span class="emoji"><img src="https://cdn.kuwa.dev/image/github-light-120.png" width="20px" height="20px" alt="github"></span>GitHub - <span class="glitch"><span class="noise2"><a href="https://kuwa.dev/github">kuwa.dev/github</a></span></span></p>
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuwacom&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuwacom&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuwacom&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
