@@ -25,4 +25,6 @@ Here are some ideas to get you started:
 <p><span class="emoji"><img src="https://cdn.kuwa.dev/image/github-light-120.png" width="20px" height="20px" alt="github"></span>GitHub - <span class="glitch"><span class="noise2"><a href="https://kuwa.dev/github">kuwa.dev/github</a></span></span></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuwacom&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuwacom&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kuwacom&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kuwa&layout=compact&theme=tokyonight)](https://wakatime.com/@kuwa)<br>
+Add WakaTime!!! in 2023/08/19
