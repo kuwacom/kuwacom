@@ -8,6 +8,8 @@
 
 一番よく使う好きな言語はTSです！
 
+contributionsが緑のときはコーディング、黒は大体インフラいじってます
+
 ## 🔗 SNS・プロジェクトリンク集
 
 <p>
@@ -44,6 +46,12 @@
   <img src="https://kuwa.dev/image/github-light-120.png" width="20px" height="20px" alt="github">
   <strong>GitHub:</strong> <a href="https://kuwa.dev/github">kuwa.dev/github</a>
 </p>
+
+以下宣伝
+```
+330円からレンタルサーバー販売してます！
+BOT作成等プログラミング3000円から承ります 
+```
 
 ## 📊 ステータス
 
