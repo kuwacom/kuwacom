@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./images/server-header.gif" alt="Server Header" />
+  <img src="./images/kuwa.dev-20.gif" alt="Server Header" />
 </p>
 
 ### Hi there 👋
