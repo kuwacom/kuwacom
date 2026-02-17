@@ -57,16 +57,16 @@ BOT作成等プログラミング3000円から承ります
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="400" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuwacom&theme=tokyonight&layout=compact&size_weight=0.9&count_weight=0.1&langs_count=20&exclude_repo=VRChat-GawrGura,VRChat-RadDoll,VRChat-Tsumire&hide=Jupyter%20Notebook,Dockerfile">
+    <img height="400" alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kuwacom&theme=tokyonight&layout=compact&size_weight=0.9&count_weight=0.1&langs_count=20&exclude_repo=VRChat-GawrGura,VRChat-RadDoll,VRChat-Tsumire&hide=Jupyter%20Notebook,Dockerfile">
   </a>
 </div>
 
 <div>
   <a href="https://wakatime.com/@kuwa">
-    <img height="200" alt="WakaTime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=kuwa&layout=compact&theme=tokyonight&langs_count=16">
+    <img height="200" alt="WakaTime Stats" src="https://github-stats-extended.vercel.app/api/wakatime?username=kuwa&layout=compact&theme=tokyonight&langs_count=16">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kuwacom&theme=tokyonight">
+    <img height="200" alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=kuwacom&theme=tokyonight">
   </a>
 </div>
 
