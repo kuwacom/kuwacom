@@ -161,8 +161,8 @@
 
 ![HPE](https://img.shields.io/badge/HPE-01A982?style=flat-square&logo=hpe&logoColor=white)
 ![Dell](https://img.shields.io/badge/Dell-007DB8?style=flat-square&logo=dell&logoColor=white)
-![Allied Telesis](https://img.shields.io/badge/Allied_Telesis-E4002B?style=flat-square&logo=cisco&logoColor=white)
-![ALAXALA](https://img.shields.io/badge/ALAXALA-003087?style=flat-square&logo=cisco&logoColor=white)
+![Allied Telesis](https://img.shields.io/badge/Allied_Telesis-E4002B?style=flat-square&logoColor=white)
+![ALAXALA](https://img.shields.io/badge/ALAXALA-003087?style=flat-square&logoColor=white)
 
 ---
 
