@@ -178,6 +178,13 @@
   <img height="200" alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=kuwacom&theme=tokyonight" />
 </div>
 
+<div align="center">
+  📝 <strong>Add 2026-04-06!!</strong> &nbsp;
+  <a href="https://u8views.com/github/kuwacom">
+    <img src="https://u8views.com/api/v1/github/profiles/83022348/views/day-week-month-total-count.svg" />
+  </a>
+</div>
+
 ---
 
 ## 💼 Services
