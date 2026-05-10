@@ -9,44 +9,58 @@
   フルスタック
 </p>
 
-<p align="center">
-  <a href="https://kuwa.app">
-    <img src="https://cdn.kuwa.app/image/?path=server_icon.png&size=25" width="18" height="18" />
-    <strong>kuwa-network</strong> kuwa.app
-  </a>
-  &nbsp;•&nbsp;
-  <a href="https://kuwa.dev">
-    <img src="https://kuwa.dev/image/icon.png" width="18" height="18" />
-    <strong>Portfolio</strong> kuwa.dev
-  </a>
-  &nbsp;•&nbsp;
-  <a href="https://kuwa.dev/tw">
-    <img src="https://kuwa.dev/image/twitter.png" width="18" height="18" />
-    <strong>Twitter</strong>
-  </a>
-  &nbsp;•&nbsp;
-  <a href="https://kuwa.dev/github">
-    <img src="https://kuwa.dev/image/github-light-120.png" width="18" height="18" />
-    <strong>GitHub</strong>
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://kuwa.dev/discord/">
-    <img src="https://kuwa.dev/image/discord.png" width="18" height="18" />
-    <strong>Discord</strong>
-  </a>
-  &nbsp;•&nbsp;
-  <a href="https://kuwa.app/discord/">
-    <img src="https://kuwa.dev/image/kuwa-music.png" width="18" height="18" />
-    <strong>Discord Bot</strong>
-  </a>
-  &nbsp;•&nbsp;
-  <a href="https://kuwa.app/discord/support">
-    <img src="https://kuwa.dev/image/discord-support.png" width="18" height="18" />
-    <strong>Discord Support</strong>
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://kuwa.app">
+        <img src="https://cdn.kuwa.app/image/?path=server_icon.png&size=25" width="18" height="18" />
+        <strong>kuwa-network</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://kuwa.dev">
+        <img src="https://kuwa.dev/image/icon.png" width="18" height="18" />
+        <strong>Portfolio</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://kuwa.dev/tw">
+        <img src="https://kuwa.dev/image/twitter.png" width="18" height="18" />
+        <strong>Twitter</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://kuwa.dev/github">
+        <img src="https://kuwa.dev/image/github-light-120.png" width="18" height="18" />
+        <strong>GitHub</strong>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://kuwa.dev/discord/">
+        <img src="https://kuwa.dev/image/discord.png" width="18" height="18" />
+        <strong>Discord</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://kuwa.app/discord/">
+        <img src="https://kuwa.dev/image/kuwa-music.png" width="18" height="18" />
+        <strong>Discord Bot</strong>
+      </a>
+    </td>
+    <td align="center" colspan="2">
+      <a href="https://kuwa.app/discord/support">
+        <img src="https://kuwa.dev/image/discord-support.png" width="18" height="18" />
+        <strong>Discord Support</strong>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
