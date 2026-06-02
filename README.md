@@ -92,6 +92,9 @@
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Hono](https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat-square&logo=go&logoColor=white)
+![chi](https://img.shields.io/badge/chi-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Huma](https://img.shields.io/badge/Huma-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -105,9 +108,9 @@
 
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
 ![KVM](https://img.shields.io/badge/KVM-000000?style=flat-square&logo=linux&logoColor=white)
+![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=flat-square&logo=qemu&logoColor=white)
+![libvirt](https://img.shields.io/badge/libvirt-333333?style=flat-square&logo=linux&logoColor=white)
 ![LXC](https://img.shields.io/badge/LXC-333333?style=flat-square&logo=linuxcontainers&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
-![Vagrant](https://img.shields.io/badge/Vagrant-1868F2?style=flat-square&logo=vagrant&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 **Container / Orchestration**
@@ -121,6 +124,12 @@
 
 ![iptables](https://img.shields.io/badge/iptables-333333?style=flat-square&logo=linux&logoColor=white)
 ![nftables](https://img.shields.io/badge/nftables-333333?style=flat-square&logo=linux&logoColor=white)
+![OpenWrt](https://img.shields.io/badge/OpenWrt-00B5E2?style=flat-square&logo=openwrt&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=white)
+![OPNsense](https://img.shields.io/badge/OPNsense-D94F00?style=flat-square&logo=opnsense&logoColor=white)
+![VyOS](https://img.shields.io/badge/VyOS-003B5C?style=flat-square&logo=linux&logoColor=white)
+![FRR](https://img.shields.io/badge/FRR-333333?style=flat-square&logo=linux&logoColor=white)
+![BIRD](https://img.shields.io/badge/BIRD-333333?style=flat-square&logo=linux&logoColor=white)
 ![BGP](https://img.shields.io/badge/BGP-0078D4?style=flat-square&logo=cisco&logoColor=white)
 ![OSPF](https://img.shields.io/badge/OSPF-0078D4?style=flat-square&logo=cisco&logoColor=white)
 ![VXLAN](https://img.shields.io/badge/VXLAN-333333?style=flat-square&logo=cisco&logoColor=white)
@@ -138,6 +147,7 @@
 ![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=flat-square&logo=zabbix&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![VictoriaMetrics](https://img.shields.io/badge/VictoriaMetrics-621773?style=flat-square&logo=victoriametrics&logoColor=white)
 ![Loki](https://img.shields.io/badge/Loki-F5A800?style=flat-square&logo=grafana&logoColor=white)
 ![Alertmanager](https://img.shields.io/badge/Alertmanager-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 
@@ -148,6 +158,8 @@
 **Storage**
 
 ![Ceph](https://img.shields.io/badge/Ceph-EF5C55?style=flat-square&logo=ceph&logoColor=white)
+![ZFS](https://img.shields.io/badge/ZFS-005571?style=flat-square&logo=openzfs&logoColor=white)
+![btrfs](https://img.shields.io/badge/btrfs-333333?style=flat-square&logo=linux&logoColor=white)
 ![NFS](https://img.shields.io/badge/NFS-333333?style=flat-square&logo=linux&logoColor=white)
 ![SMB](https://img.shields.io/badge/SMB-0078D4?style=flat-square&logo=windows&logoColor=white)
 ![iSCSI](https://img.shields.io/badge/iSCSI-333333?style=flat-square&logo=linux&logoColor=white)
@@ -166,6 +178,8 @@
 **Hardware**
 
 ![Arduino](https://img.shields.io/badge/Arduino-00878A?style=flat-square&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![ATmega328](https://img.shields.io/badge/ATmega328-00878A?style=flat-square&logo=arduino&logoColor=white)
 ![M5Stack](https://img.shields.io/badge/M5Stack-E91E63?style=flat-square&logo=m5stack&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 ![LattePanda](https://img.shields.io/badge/LattePanda-FF6B35?style=flat-square&logo=arduino&logoColor=white)
